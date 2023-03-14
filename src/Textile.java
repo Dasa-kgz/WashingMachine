@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public enum Textile {
+public enum Textile {
+    WOOL,
+    DIRTY,
+    SYNTHETICS,
+    COTTON,
+
+
 }

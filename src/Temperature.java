@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Temperature {
+public enum Temperature {
+    MAX,
+    HOT,
+    WARM,
+  COLD;
 }

@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public enum MachineEnumColor {
+public enum MachineEnumColor {
+    RED,
+    GREEN,
+    BLUE,
+    YELLOW,
+    WHITE,
+    BLACK,
+    GREY,
+    MIXED
 }
